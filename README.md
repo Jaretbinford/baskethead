@@ -1,10 +1,10 @@
 # baskethead
 
-A Clojure library designed to ... well, that part is up to you.
+Basketball stats Datomic DB.
 
 ## Usage
 
-FIXME
+Fantasy basketball stuff
 
 ## License
 
