@@ -1,0 +1,39 @@
+;;One Player's MAP
+;{\"player\"
+; :{\"ID\":\"13786\",\"LastName\":\"Brooks\",\"FirstName\":\"Dillon\",\"JerseyNumber\":\"24\",\"Position\":\"SF\"},
+; \"team\":{\"ID\":\"107\",\"City\":\"Memphis\",\"Name\":\"Grizzlies\",\"Abbreviation\":\"MEM\"},
+;         \"stats\":{\"GamesPlayed\":{\"@abbreviation\":\"GP\",\"#text\":\"7\"}
+;        ,\"Fg2PtAtt\":{\"@category\":\"Field Goals\",\"@abbreviation\":\"2PA\",\"#text\":\"33\"},
+;        \"Fg2PtMade\":{\"@category\":\"Field Goals\",\"@abbreviation\":\"2PM\",\"#text\":\"19\"},
+;         \"Fg3PtAtt\":{\"@category\":\"Field Goals\",\"@abbreviation\":\"3PA\",\"#text\":\"15\"},
+;         \"Fg3PtMade\":{\"@category\":\"Field Goals\",\"@abbreviation\":\"3PM\",\"#text\":\"4\"},
+;         \"FtAtt\":{\"@category\":\"Free Throws\",\"@abbreviation\":\"FTA\",\"#text\":\"15\"},
+;         \"FtMade\":{\"@category\":\"Free Throws\",\"@abbreviation\":\"FTM\",\"#text\":\"9\"}}},
+
+
+--- PLAYER ---
+:ID
+:LastName
+:FirstName
+:JerseyNumber
+:Position
+
+--- Team ---
+:ID
+:City
+:Name
+:Abbreviation
+
+--- Stats ---
+:GP
+:2PA
+:2PM
+:3PA
+:3PM
+:FTA
+:FTM
+
+
+
+
+
